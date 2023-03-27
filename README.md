@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js and PWA**
 
-- 📫 How to reach me **you can shoot me a message on LinkedIn or just write me a mail (nicholashaemmerle@gmx.at)**
+- 📫 How to reach me:  **you can shoot me a message on LinkedIn or just write me a mail (nicholashaemmerle@gmx.at)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
